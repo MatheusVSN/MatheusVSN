@@ -1,6 +1,5 @@
 <p align="center">
 <img width="200px" src="https://res.cloudinary.com/dpmtqiciw/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1678492381/image_1_dzerqk.jpg">
-<h2 align="center">Welcome to my profile!</h2>
 </p>
 
 <div align="center">

@@ -6,9 +6,6 @@
 <div align="center">
 <img height:"100px" src="https://github-readme-stats.vercel.app/api?username=MatheusVSN&show_icons=true&theme=radical">
 </div>
-
-<h1></h1>
-
 <br>
 
 <p align="center">

@@ -4,7 +4,8 @@
 <h1></h1>
 
 <div align="center">
-<img height:"100px" src="https://github-readme-stats.vercel.app/api?username=MatheusVSN&show_icons=true&theme=radical">
+<img style="width:500px;" src="https://github-readme-stats.vercel.app/api?username=MatheusVSN&show_icons=true&theme=radical">
+<img style="width:450px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVSN&layout=compact&theme=radical">
 </div>
 
 <p align="center">

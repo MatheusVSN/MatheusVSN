@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200px" src="https://res.cloudinary.com/dpmtqiciw/image/upload/v1678710094/image_2_syxchb.png">
+<img width="250px" src="https://res.cloudinary.com/dpmtqiciw/image/upload/v1678710094/image_2_syxchb.png">
 </p>
 <h1></h1>
 

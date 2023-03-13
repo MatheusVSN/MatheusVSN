@@ -15,3 +15,5 @@
 </p>
 
 <h1></h1>
+
+<a href="https://discord.gg/JuawxqJf9F"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" taget="_blank"></a>

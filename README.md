@@ -17,10 +17,6 @@
 <h3>Learning:</h3>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-<h3>Contact me:</h3>
-
-<a href="https://discord.gg/JuawxqJf9F"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" taget="_blank"></a>
-
 <h1></h1>
 
 <div align="center">

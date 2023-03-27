@@ -23,3 +23,16 @@
 <img style="width:350px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusVSN&show_icons=true&theme=radical">
 <img style="width:370px;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusVSN&layout=compact&theme=radical">
 </div>
+
+<h1></h1>
+
+<details>
+<summary>Projects</summary>
+<br>
+
+[![NFT Card Preview](https://github-readme-stats.vercel.app/api/pin/?username=MatheusVSN&repo=frontendmentor-nft-card-preview-component&theme=radical)](https://github.com/MatheusVSN/frontendmentor-nft-card-preview-component)
+[![QR Code Component](https://github-readme-stats.vercel.app/api/pin/?username=MatheusVSN&repo=Frontend-Mentor-QR-Code-Component&theme=radical)](https://github.com/MatheusVSN/Frontend-Mentor-QR-Code-Component)
+[![Sign Up Page](https://github-readme-stats.vercel.app/api/pin/?username=MatheusVSN&repo=Codewell-Gradie-SignUp&theme=radical)](https://github.com/MatheusVSN/Codewell-Gradie-SignUp)
+[![Newsletter Popup](https://github-readme-stats.vercel.app/api/pin/?username=MatheusVSN&repo=Codewell-Newsletter-Popup&theme=radical)](https://github.com/MatheusVSN/Codewell-Newsletter-Popup)
+
+</details>

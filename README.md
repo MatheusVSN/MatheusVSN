@@ -26,6 +26,8 @@
 
 <h1></h1>
 
+<h3>Projects:</h3>
+
 <details>
 <summary>Personal Projects</summary>
 <br>

@@ -36,3 +36,11 @@
 [![Newsletter Popup](https://github-readme-stats.vercel.app/api/pin/?username=MatheusVSN&repo=Codewell-Newsletter-Popup&theme=radical)](https://github.com/MatheusVSN/Codewell-Newsletter-Popup)
 
 </details>
+
+<details>
+  <summary>PROA Projects</summary>
+  <br>
+  
+  [![PROA](https://github-readme-stats.vercel.app/api/pin/?username=MatheusVSN&repo=Atividades-PROA&theme=radical)](https://github.com/MatheusVSN/Atividades-PROA)
+  
+</details>

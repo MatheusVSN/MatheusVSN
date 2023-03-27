@@ -27,7 +27,7 @@
 <h1></h1>
 
 <details>
-<summary>Projects</summary>
+<summary>Personal Projects</summary>
 <br>
 
 [![NFT Card Preview](https://github-readme-stats.vercel.app/api/pin/?username=MatheusVSN&repo=frontendmentor-nft-card-preview-component&theme=radical)](https://github.com/MatheusVSN/frontendmentor-nft-card-preview-component)

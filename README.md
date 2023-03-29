@@ -7,7 +7,7 @@
 - 👋 Hello World! My name is Matheus<br>
 - 📘 Current studying Web Development at Instituto PROA<br>
 
-<h3>Programming Languages & Tools:</h3>
+<h3>Programming Languages:</h3>
 <p align="left">
  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

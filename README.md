@@ -9,7 +9,7 @@
 Hello World! My name is Matheus, and I'm 18 years old. I'm a web developer student at Instituto PROA. I am a person who loves to study development and solutions to problems. I believe that the best way to overcome a challenge is through organization, planning, and persistence. My analogy to a problem is that to solve it, it is necessary to think of it as an empty block and place small blocks; the quantity does not matter. With regular consistency, you can see the result of past blocks and be inspired to place larger blocks so that the problem is solved with efficiency and result. One of my skills is being an active student. I believe that every problem has a root that needs to be studied, and the more information you get about that cause, the greater the probability and effectiveness of solving the problem.
 <h1></h1>
 
-<h3>Programming Languages:</h3>
+<h3>Programming Languages/Development:</h3>
 <p align="left">
  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

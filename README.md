@@ -1,6 +1,7 @@
 <p align="center">
-<img width="250px" src="https://res.cloudinary.com/dpmtqiciw/image/upload/v1678710094/image_2_syxchb.png">
-</p>
+
+![Background](https://cdn.discordapp.com/attachments/1087387507307585579/1099754286998630542/image.png)
+
 <h1></h1>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">

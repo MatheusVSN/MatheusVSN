@@ -1,6 +1,7 @@
 <p align="center">
 
-![Background](https://cdn.discordapp.com/attachments/1087387507307585579/1099754286998630542/image.png)
+![Background](https://media.discordapp.net/attachments/1087387507307585579/1099757141788725458/image.png?width=1440&height=560)
+ 
 
 <h1></h1>
 

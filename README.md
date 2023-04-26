@@ -34,6 +34,10 @@ Hello World! My name is Matheus, and I'm 18 years old. I'm a web development stu
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
+<h3>Learning:</h3>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+
 <h3>Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/matheus-vieira-bb1a19267/">

@@ -37,6 +37,7 @@ Hello World! My name is Matheus, and I'm 18 years old. I'm a web development stu
 <h3>Learning:</h3>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <h3>Connect with me:</h3>
 

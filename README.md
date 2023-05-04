@@ -8,8 +8,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h3>About Me:</h3>
-Hello World! My name is Matheus, and I'm 18 years old. I'm a web development student at Instituto PROA. I am a person who loves studying development and finding solutions to problems. I believe that the best way to overcome a challenge is through organization, planning, and persistence. My approach to solving a problem is to think of it as an empty block and add small blocks to it; the quantity does not matter. With regular consistency, you can see the results of past blocks and be inspired to add larger blocks, so the problem can be solved with efficiency and effectiveness. One of my skills is being an active learner. I believe that every problem has a root cause that needs to be studied, and the more information you gather about that cause, the greater the probability of solving the problem effectively.
-<h1></h1>
+Hello World! My name is Matheus, and I'm 18 years old. I'm a web development student at Instituto PROA. I am a person who loves studying development and finding solutions to problems.
 
 <h3>Programming Languages/Development:</h3>
 <p align="left">

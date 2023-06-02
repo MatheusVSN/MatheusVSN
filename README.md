@@ -5,8 +5,6 @@
 
 <h1></h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 <h3>About Me:</h3>
 Hello World! My name is Matheus, and I'm 18 years old. I'm a web development student at Instituto PROA. I am a person who loves studying development and finding solutions to problems.
 

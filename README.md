@@ -40,7 +40,7 @@ Hello World! My name is Matheus, and I'm 18 years old. I'm a web development stu
 
 <h3>Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/matheus-vieira-bb1a19267/">
+<a href="https://www.linkedin.com/in/matheusvsn/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Linkedin">
 </a>
 <a href="mailto:matheusvsn2005@gmail.com">
